@@ -1,3 +1,7 @@
+# Notes
+I am learning React. [Source](https://youtu.be/XuFDcZABiDQ)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
